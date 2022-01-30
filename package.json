@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "my-ninja-list",
   "private": true,
   "scripts": {
     "dev": "next dev",
